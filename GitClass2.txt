@@ -1,3 +1,5 @@
 Our first Git class
 
 Syntax Techs
+
+What's up doc
